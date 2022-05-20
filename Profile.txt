@@ -1,0 +1,43 @@
+
+Hi. I am a professional developer who can handle tasks relative to blockchain.
+
+1. Solana smart contract development (Unit test, solana-program-library, Solana-web3, Raydium swap and orca) by using Rust and Anchor framework
+2.Cardano smart contract by using Haskell and CosmWasm smart contract by using Rust CosmWasm.
+3. Smart contract development in networks (Ethereum, BSC, Matic/Polygon) by using Solidity.
+4. Front-end development interactive with smart contract by using Web3, truffle, React(Redux / Thunk / Saga), Angular and Vue.
+5. ICO, IDO, Defi Swap, Reward system for staking, AOM(Olympus DAO Fork), Hyperledger Fabric
+6. NFT minting and NFT marketplace development(Create listing by admin, flat & Crypto payment, Bundle Sale/ Bulk Transfers, Drops, Rating, Bidding & Auction)
+-Minter in Candy machine and 10% royalty moved to burn and other wallets
+-Burn mechanism with kind of sharing rewards back to the holders
+-Minting by user randomly NFTs, Upload the NFT arts and Traits(metadata) to IPFS
+7.Bot development for sale monitoring bot OS and Niftygateway
+8. Cryto game development with crypto payment gateway
+Let's discuss your project together.
+Thanks.
+
+********************************************************************************
+
+[For Hire][Full-time/ Part-time][Remote]
+Hi guys!
+I can help you develop and launch your NFT or any web3 project!
+I have previously worked on launching different NFT collections and deploying full-featured white-label NFT marketplaces on Mainnet.
+
+What I can do:
+- Front-end Development (Pixel-Perfect, RWD)
+ > React, Next.js
+ > Styled-components, Tailwind CSS, Material UI, Chakra UI
+- Back-end Development
+ > Node.js, Express, Nest.js, Typescript
+ > Laravel, Codeignitor
+ > MySQL, MongoDB, PostgreSQL
+- Smart Contract development
+- Landing page development
+- Web3 integration to your website
+- NFT minting on your website
+- Collection generation from your artwork
+- Technical assistance during your project
+- White-label NFT marketplace development and deployment
+
+Send me a DM to discuss our potential collaboration!
+
+***********************************************************************
